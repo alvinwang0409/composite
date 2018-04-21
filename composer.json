@@ -1,0 +1,13 @@
+{
+    "description": "practice pattern",
+    "name": "016813/practice/pattern",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "classes/"
+        }
+    },
+    "require": {
+        "tightenco/collect": "^5.5"
+    }
+}
